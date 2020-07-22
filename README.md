@@ -8,7 +8,7 @@ As part of an OOP in C++ course we were given a task to teach us different eleme
 * C++ Standard Library
 
 # Our Project:
-Our system is a social network that allows its registered members to communicate with their friends online.
+Our system is a social network which is implemented in C++ as console app that allows its registered members to communicate with their friends.
 
 The system allows the user several actions such as:
 
